@@ -1,6 +1,4 @@
-# iHateReading
-
-## 2023 Full Stack Frontend Repository
+# 2023 Full Stack Frontend Repository
 
 ### <a href="">Read more here</a>
 
