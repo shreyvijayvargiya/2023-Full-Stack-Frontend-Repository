@@ -22,4 +22,6 @@ open localhost:4001
   <li>React Query</li>
   <li>Redux</li>
   <li>Lodash</li>
+  <li>Firebase</li>
+  <li>React Icons</li>
 </ol>
