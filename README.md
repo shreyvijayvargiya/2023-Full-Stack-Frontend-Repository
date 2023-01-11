@@ -1,6 +1,6 @@
 # 2023 Full Stack Frontend Repository
 
-### <a href="">Read more here</a>
+### <a href="">Read Docs</a>
 
 ## How to Run Locally
 
@@ -11,3 +11,14 @@ run yarn run dev
 open localhost:4001
 
 ```
+
+<ol>
+  <li>Next JS</li>
+  <li>React JS</li>
+  <li>Material UI</li>
+  <li>Mantine Dev</li>
+  <li>Tailwind CSS</li>
+  <li>React Query</li>
+  <li>Redux</li>
+  <li>Lodash</li>
+</ol>
