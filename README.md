@@ -1,4 +1,4 @@
-# 2023 Full Stack Frontend Repository
+# Full Stack Frontend Repository
 
 ### <a href="">Read Docs</a>
 
